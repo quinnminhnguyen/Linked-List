@@ -1,2 +1,2 @@
 # Linked-List
-Doubly and Singly Link List
+Doubly Linked List
